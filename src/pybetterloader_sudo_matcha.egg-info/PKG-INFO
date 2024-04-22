@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: pybetterloader_sudo-matcha
+Version: 1.0.0
+Summary: A quirky loader/context manager that always has something to say!
+Author-email: Milo Pitsch <jskresl@gmail.com>
+Project-URL: Homepage, https://github.com/sudo-matcha/pybetterloader
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENCE
