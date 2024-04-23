@@ -14,7 +14,8 @@ The `Loader` class provides a context manager for displaying loading animations 
 
 ### Initialization Parameters
 
-- **description** (str): A string indicating the message displayed during loading. Default is "Loading...". if `quips == True`, this appears in (parenthesis).
+- **description** (str): A string indicating the message displayed during loading. Default is "Loading...".\
+  If `quips == True`, this appears in (parenthesis).
   
 - **anim** (str): The type of animation to display. Options include:
   - "braille" 
